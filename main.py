@@ -9,7 +9,7 @@ print(a, "/" , b , "=" , degree(a, b))
 
 def info(name, surname, birthday, city, email, phone_number):
     print(f"name - {name}; surname - {surname}; birthday - {birthday}; city - {city}; email - {email}, phone_number - {phone_number}")
-info(name = "Максим", surname = "Иванов", birthday = "25 сентября 1988", city = "Москва", email = "ivanov@maks.ru", phone_number = "89263492728")
+info(name = "Петр", surname = "Иванов", birthday = "25 сентября 1988", city = "Москва", email = "ivanov@maks.ru", phone_number = "89263492728")
 
 def my_func(a, b, c):
     r = [a, b, c]
